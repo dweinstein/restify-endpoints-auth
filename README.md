@@ -1,7 +1,7 @@
 # Overview
 
 This bolts on an http-signature authentication middleware for
-(restify-endpoints)[https://github.com/ekristen/restify-endpoints/].
+[restify-endpoints](https://github.com/ekristen/restify-endpoints/).
 
 # Examples
 
