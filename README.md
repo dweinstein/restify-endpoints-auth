@@ -1,6 +1,8 @@
 # Overview
 
-This bolts on an http-signature authentication middleware for
+This bolts on an
+[http-signature](https://github.com/joyent/node-http-signature) authentication
+middleware for
 [restify-endpoints](https://github.com/ekristen/restify-endpoints/).
 
 # Examples
