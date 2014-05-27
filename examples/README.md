@@ -1,8 +1,5 @@
 # Overview 
 
-# autodiscovery
-This loads all endpoints dynamically via the autodiscovery function.
-
-# auth-httpsignature
-This uses the httpsignature authentication mechanism with sqlite to perform authentication.
+# autodiscovery-auth
+Demonstrates use of http-signature on `localhost:3000/example` endpoints
 
