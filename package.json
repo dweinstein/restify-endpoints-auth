@@ -1,0 +1,30 @@
+{
+  "author": "David Weinstein <dweinst@insitusec.com>",
+  "homepage": "https://github.com/dweinstein/restify-endpoints-auth",
+  "name": "restify-endpoints-auth",
+  "description": "Auth Endpoint Middleware for the awesome restify-endpoints",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dweinstein/restify-endpoints-auth.git"
+  },
+  "scripts": {
+    "example-server": "node examples/autodiscovery-auth/server.js",
+    "example-client": "node examples/autodiscovery-auth/client/client.js"
+  },
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "sqlite3": "^2.2.3",
+    "restify-endpoints": "git+https://github.com/dweinstein/restify-endpoints.git#middleware-bind",
+    "http-signature": "^0.10.0",
+    "restify": "^2.7.0",
+    "bluebird": "^1.2.4",
+    "redis": "^0.10.1"
+  },
+  "devDependencies" : {
+    "mocha": "^1.19.0"
+  }
+}
