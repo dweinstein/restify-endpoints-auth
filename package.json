@@ -22,7 +22,8 @@
     "http-signature": "^0.10.0",
     "restify": "^2.7.0",
     "bluebird": "^1.2.4",
-    "redis": "^0.10.1"
+    "redis": "^0.10.1",
+    "lodash": "^2.4.1"
   },
   "devDependencies" : {
     "mocha": "^1.19.0"
