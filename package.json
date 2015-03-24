@@ -17,15 +17,15 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "sqlite3": "^2.2.3",
-    "restify-endpoints": "git+https://github.com/dweinstein/restify-endpoints.git#middleware-bind",
-    "http-signature": "^0.10.0",
-    "restify": "^2.7.0",
     "bluebird": "^1.2.4",
+    "http-signature": "^0.10.0",
+    "lodash": "^2.4.1",
     "redis": "^0.10.1",
-    "lodash": "^2.4.1"
+    "restify": "^2.7.0",
+    "restify-endpoints": "git+https://github.com/dweinstein/restify-endpoints.git#middleware-bind",
+    "sqlite3": "^3.0.5"
   },
-  "devDependencies" : {
+  "devDependencies": {
     "mocha": "^1.19.0"
   }
 }
