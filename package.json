@@ -3,7 +3,7 @@
   "homepage": "https://github.com/dweinstein/restify-endpoints-auth",
   "name": "restify-endpoints-auth",
   "description": "Auth Endpoint Middleware for the awesome restify-endpoints",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/dweinstein/restify-endpoints-auth.git"
