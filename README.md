@@ -1,4 +1,6 @@
-# Overview
+# restify-endpoints-auth [![Build Status](https://travis-ci.org/dweinstein/restify-endpoints-auth.svg?branch=master)](https://travis-ci.org/dweinstein/restify-endpoints-auth)
+
+## Overview
 
 This bolts on an
 [http-signature](https://github.com/joyent/node-http-signature) authentication
@@ -10,7 +12,7 @@ you'll need to use [my](https://github.com/dweinstein/restify-endpoints-auth)
 (the `dev` branch) which has some specific tweaks.
 
 
-# Examples
+## Examples
 
 In one terminal session:
 `npm run example-server`
